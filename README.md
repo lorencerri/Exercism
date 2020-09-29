@@ -1,3 +1,3 @@
 # Exercism
 
-My personal Exercism solutions
+My personal Exercism solutions 

@@ -1,1 +1,3 @@
-git add . & git commit -m "Progress" & git push
+git add .
+git commit -m "Progress"
+git push

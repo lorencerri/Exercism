@@ -163,7 +163,7 @@ hs_err_pid*
 
 .gradle
 .settings
-src/
+bin/
 .classpath
 .project
 

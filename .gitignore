@@ -1,5 +1,5 @@
 # ---
-# JavaScript
+# JavaScript/TypeScript
 # ---
 
 # Logs
@@ -126,6 +126,12 @@ package-lock.json
 .npmrc
 babel.config.js
 package.json
+
+# TypeScript
+tsconfig.json
+yarn.lock
+jest.config.js
+.eslintignore
 
 # ---
 # Java

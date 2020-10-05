@@ -6,7 +6,5 @@ const RNA = {
 };
 
 export const toRna = ([...DNA]) => {
-    return DNA.map((i) => RNA[i])
-        .filter(Boolean)
-        .join("");
+    return DNA.map((i) => RNA[i]).join("");
 };
